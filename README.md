@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Randrews545
+- 👀 I’m interested in project involving Python, Postgres SQL, or React.js
+- 📫 You can reach me at randrews545@gmail.com
